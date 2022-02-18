@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?> <dungeon title="Dungeon" author="PROFJason">
+    <room>
+        <east>1</east>
+        <description>0.YOU ARE ENTERING FOREST ON DETENTION. AT THE END YOU CAN COLLECT SOCCER'S STONE
+                -MOVE EAST(E) TO START</description>
+    </room>
+    <room>
+        <east>2</east>
+        <west>0</west>
+        <south>9</south>
+        <description>1. AS YOU MOVE IN FOREST DIVIDES IN TWO PART:
+        -SOUTH DIRECTION WILL TAKE YOU TO THE COLONY OF GIANTS(S)
+        -EAST DIRECTION WILL TAKE TO MAGICAL INSECTS(E)
+        </description>
+    </room>
+    <room>
+        <east>9</east>
+        <south>3</south>
+        <west>1</west>
+        <description>2. YOU GET IN HIVES OF ACROMANCHILA, YOU CAN:
+        -GET IN CAR AND MOVE SOUTH(S)
+        -RUN EAST(E)
+        </description>
+    </room>
+    <room>
+        <north>2</north>
+        <east>9</east>
+        <west>4</west>
+        <description>3. THE CAR THROWS YOU IN DEVIL'S SNARE, YOU CAN
+        -STAY STILL AND SLIDE TO WEST(W)
+        -TRY TO WRESTLE AND MOVE EST(E)
+        </description>
+    </room>
+    <room>
+        <east>3</east>
+        <south>9</south>
+        <west>5</west>
+        <description>4.YOU ARE FACE TO FACE WITH DEMENTORS, YOU CAN:
+        -RUN AWAY TO SOUTH(S)
+        -FIGHT DEMENTORS WIH PATRONOUS CHARM, AND MOVE WEST(W)
+        </description>
+    </room>
+    <room>
+        <east>4</east>
+        <south>6</south>
+        <west>9</west>
+        <description>5.NOW YOU FACE A DRAGON, YOU CAN:
+        -PICK UP A BROOM AND FLY (SOUTH)
+        -TRY TO ESCAPE IN DIRECTION WEST(W) WITHOUT BROOM</description>
+    </room>
+    <room>
+        <north>5</north>
+        <east>7</east>
+        <west>9</west>
+        <description>6THERE IS A GROUP OF INFERI IN THIS PART, YOU CAN:
+        -MOVE TO THE FIRE IN DIRECTION EAST(E)
+        -RUN TO THE WEST(W)
+        </description>
+    </room>
+    <room>
+        <north>9</north>
+        <east>8</east>
+        <south>9</south>
+        <west>6</west>
+        <description>IN THIS PART, YOU FACE THE BASILISK, YOU CAN:
+        -RUN NORTH(N)
+        -RUN SOUTH|()
+        -RUN TO THE ROOSTERS IN EAST(E)
+        </description>
+    </room>
+    <room>
+        <east>3</east>
+        <south>9</south>
+        <west>5</west>
+        <description>8. YOU ARE  FACE TO FACE WITH THE CENTAUR, FRENZE HE'LL CARRY YOU OUT OF FOREST
+        CONGRATULATIONS YOU'VE LIVED THROUGH THE FOREST</description>
+    </room>
+    <room>
+        <description>YOU MADE WRONG CHOICE, YOU'RE DEAD
+                            GAME OVER</description>
+    </room>
+</dungeon>
